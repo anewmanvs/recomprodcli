@@ -1,0 +1,7 @@
+# a ignorar
+*.out
+*.csv
+*.txt
+
+# exceto
+!requirements.txt
